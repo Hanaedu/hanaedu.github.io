@@ -1,8 +1,6 @@
-# DataToVis
+# Hanaedu.id
 
-From Data to Visualizations and Insights
+The choice for your higher education
 
-## Getting started
-DataToVis makes data analytics amazingly simple for everyone.
 
-Contact: datatovis@gmail.com
+Contact: hanaedu.id@gmail.com
